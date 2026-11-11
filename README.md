@@ -10,3 +10,10 @@ This repository contains my Programming for AI Assignment 3.
 
 ## Difficult Part
 One challenging part was cleaning and processing datasets using NumPy and Pandas, especially handling missing values and performing calculations along different axes.
+
+## Assignment Progress
+- Q1: Completed
+- Q2: Completed
+- Q3: Completed
+- Q4: Completed
+- Q5: Pending
